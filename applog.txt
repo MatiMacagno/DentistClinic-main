@@ -1,0 +1,61 @@
+
+INFO    2023-04-05 20:25:49,325 [http-nio-8080-exec-2] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-05 20:41:20,836 [http-nio-8080-exec-4] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-05 20:41:42,447 [http-nio-8080-exec-5] Clinic.DentistClinic.Service.DentistService  - Dentist with id 1 not exists
+INFO    2023-04-05 20:44:39,989 [http-nio-8080-exec-5] Clinic.DentistClinic.Service.AppointmentService  - Appointment 1not exists
+INFO    2023-04-05 20:44:54,051 [http-nio-8080-exec-7] Clinic.DentistClinic.Service.AppointmentService  - Appointment 1not exists
+INFO    2023-04-05 20:56:50,064 [http-nio-8080-exec-2] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-05 20:57:31,931 [http-nio-8080-exec-3] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 21:02:25,754 [http-nio-8080-exec-8] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-05 21:03:04,975 [http-nio-8080-exec-1] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-05 21:56:29,699 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 21:58:17,427 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 22:04:41,299 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 22:06:01,653 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 22:09:54,235 [main] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-05 22:10:45,501 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 22:14:10,975 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-05 22:18:39,359 [main] Clinic.DentistClinic.Service.AppointmentService  - Update appointment 1
+INFO    2023-04-05 22:20:18,586 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-06 00:11:53,587 [http-nio-8080-exec-6] Clinic.DentistClinic.Service.DentistService  - Dentist with id 1 not exists
+INFO    2023-04-06 00:21:50,678 [http-nio-8080-exec-7] Clinic.DentistClinic.Service.DentistService  - Dentist with id 1 not exists
+INFO    2023-04-06 01:06:31,217 [main] Clinic.DentistClinic.Service.AppointmentService  - Update appointment 1
+INFO    2023-04-06 01:06:31,241 [main] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-06 01:06:31,293 [main] Clinic.DentistClinic.Service.PatientService  - Update patient 1
+INFO    2023-04-06 01:07:42,100 [main] Clinic.DentistClinic.Service.AppointmentService  - Update appointment 1
+INFO    2023-04-06 01:07:42,123 [main] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-06 01:20:25,716 [main] Clinic.DentistClinic.Service.PatientService  - Patient with id 2 not exists
+INFO    2023-04-06 01:21:23,699 [main] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-06 01:22:24,451 [main] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-06 01:23:58,892 [main] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-06 01:24:21,474 [main] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-06 01:26:58,709 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:27:19,763 [main] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-06 01:28:32,130 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:30:19,015 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:31:18,043 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:34:36,186 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:36:45,228 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:37:12,734 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:37:34,951 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:38:46,494 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:39:10,955 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:39:55,759 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:40:19,356 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:41:29,361 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:43:34,465 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:44:54,723 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:46:47,344 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:49:20,674 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:51:32,437 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:52:17,757 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 01:52:48,759 [main] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 02:08:43,760 [main] Clinic.DentistClinic.Service.AppointmentService  - Update appointment 1
+INFO    2023-04-06 02:08:43,784 [main] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-06 02:09:27,198 [main] Clinic.DentistClinic.Service.PatientService  - Dentist eliminated
+INFO    2023-04-06 02:09:53,441 [main] Clinic.DentistClinic.Service.AppointmentService  - Update appointment 1
+INFO    2023-04-06 02:09:53,465 [main] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-06 02:10:47,825 [main] Clinic.DentistClinic.Service.AppointmentService  - Update appointment 1
+INFO    2023-04-06 02:10:47,848 [main] Clinic.DentistClinic.Service.DentistService  - Update dentist 1
+INFO    2023-04-06 02:13:24,815 [http-nio-8080-exec-8] Clinic.DentistClinic.Service.DentistService  - Dentist eliminated
+INFO    2023-04-06 02:13:34,415 [http-nio-8080-exec-7] Clinic.DentistClinic.Service.DentistService  - Dentist with id 1 not exists
